@@ -20,5 +20,5 @@
             "email": "codyht@163.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
