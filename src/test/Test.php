@@ -15,4 +15,7 @@ class Test
     public function index(){
         echo time();
     }
+    public function dt(){
+        echo "dt";
+    }
 }
