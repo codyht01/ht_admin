@@ -3,7 +3,8 @@
     "description": "基于easydmin修改后端接口",
     "type": "library",
     "require": {
-        "php": ">=7.4.0"
+        "php": ">=7.4.0",
+        "ext-json": "*"
     },
     "require-dev": {
         "php": ">=7.4.0"
